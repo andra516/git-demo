@@ -1,4 +1,4 @@
-def myFunc(x):
-	return x**2
+def myFunc(x, a):
+	return x**a
 
-print(myFunc(2))
+print(myFunc(2, 7))
